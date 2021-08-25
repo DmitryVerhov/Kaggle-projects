@@ -47,8 +47,8 @@ The best results were on the step 4 epochs 12,13,14. As we can see on graphics t
 * S4ep12 : 0.97558
 * S4ep13 : 0.97573
 * S4ep14 : 0.97123
-#### But, nevertheless, the best result on leaderboard was shown by 13-th epoch - 0.97797 . On my opinion, in real life (or with private leaderboard) it is better to use 12-th epoch.
-
+#### But, nevertheless, the best result on leaderboard was shown by 13-th epoch - 0.97573 . On my opinion, in real life (or with private leaderboard) it is better to use 12-th epoch.
+#### After ensembling I've got 0.97797 and took 6-th place on leaderboard.
 
 ## Conclusion
 During this work I've used these methods to improve the accuracy:
