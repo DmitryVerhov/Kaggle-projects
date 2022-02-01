@@ -9,5 +9,5 @@
 ### At first I have investigated and cleaned data, then made an EDA and preprocessing data to train models on it. During the work I have gathered metrics for models, that are presented in a table below:
 ![Getting Started](mape.jpg)
 
-#### As we can see the best result on submission was shown by Catboost + final by Blending. As for NLP models, the best result has a Convolutional network. I've said above that there are not enough data for LSTM and something wrong with BERT properties.
-#### Nevertheless, I've improved my skills in text preprocessing and assembling neural networks. As for BERT, I will spend more time to learn this model better, because this is a stae-of-the-art method and DataScientist must know how to use it, if he wants to keep up with the times.     
+#### As we can see the best result on submission was shown by Catboost + final by Blending. As for NLP models, the best result has a Convolutional network. 
+ 
