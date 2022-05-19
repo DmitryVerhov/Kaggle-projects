@@ -1,6 +1,5 @@
 ```diff
-- ### Since the e-katalog.ru has been closed, the parser needs to be reoriented to other sources.
-
+- Since the e-katalog.ru has been closed, the parser needs to be reoriented to other sources.
 ```
 ## PC assembly assistant bot
 
