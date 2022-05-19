@@ -1,4 +1,4 @@
-'''diff- ### Since the e-katalog.ru has ceased to exist,  need to reorient the parser to other source'''
+$ \ color {red} {### Since the e-katalog.ru has ceased to exist,  need to reorient the parser to other source} $
 ## PC assembly assistant bot
 
 The goal of this project was to create a PC build tool, wich will help the user to choose pc-parts and notebooks with good quality and lower price.
