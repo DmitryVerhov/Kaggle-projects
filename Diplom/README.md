@@ -1,3 +1,4 @@
+'''diff- ### Since the e-katalog.ru has ceased to exist,  need to reorient the parser to other source'''
 ## PC assembly assistant bot
 
 The goal of this project was to create a PC build tool, wich will help the user to choose pc-parts and notebooks with good quality and lower price.
@@ -5,8 +6,8 @@ The goal of this project was to create a PC build tool, wich will help the user 
 Tool consist of five parts:
 * Parser wich can download product characteristics and prices everyday.
 * Preprocessing unit is converting raw data to datasets for the model
-* Anomaly detector finds intresting products from the datasets
-* NLP model as a sentiment analyser
+* Anomaly detector finds interesting products from the datasets
+* NLP model based on BERT transformer as a sentiment analyser
 * And finally telegram bot as a user interface
 
 ### Directory content
