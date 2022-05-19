@@ -1,9 +1,6 @@
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- ### Since the e-katalog.ru has been closed, the parser needs to be reoriented to other sources.
+
 ```
 
 ### Since the e-katalog.ru has ceased to exist,  need to reorient the parser to other source
