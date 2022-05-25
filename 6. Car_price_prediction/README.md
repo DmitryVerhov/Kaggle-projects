@@ -6,7 +6,7 @@ The goal was to predict prices of cars wich were given in the csv file. The comp
 
 ## 1. Getting data.
 
-I wrote two functions to parse the site auto.ru and received a dataframe with 115477 entries.Also I've found a dataset on kaggle of almost the same period with 332676 entires, but usefull were only 125848 entires, because of brands, presentsd in test. After merging the datasets and dropping duplicates, I've got a dataset with 198403 entires.  
+I wrote two functions to parse the site auto.ru and received a dataframe with 115477 entries.Also I've found a dataset on kaggle of almost the same period with 332676 entires, but usefull were only 125848 entires, because of brands, needed to predict. After merging the datasets and dropping duplicates, I've got a dataset with 198403 entires.  
 
 
 ## 2. Data preparing.
@@ -24,7 +24,7 @@ During the EDA I've cleared out the significance of features and checked their c
 In this block I encoded bin and cat features. Also num features and target variable were normalized. The result on leaderboard increased on about 30% after normalization.  
 
 ## 5. Building models.
-I built the Naive model to compare with at first. Then I've tried to train Bagging on DecisionTrees, Randomforest, GradientBoost, Bagging on GradientBoost, XgBoost, Catboost and ensemble of last three. 
+I built the Naive model to compare with it at first. Then I've tried to train Bagging on DecisionTrees, Randomforest, GradientBoost, Bagging on GradientBoost, XgBoost, Catboost and ensemble of last three. 
 
 For RandomForest I've tried to find the best parameters with gridsearch. Thats took a lot of time, but didn't gave a result. The best result showed Catboost.   
 
