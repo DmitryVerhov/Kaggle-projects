@@ -61,4 +61,4 @@ During this work I've used these methods to improve the accuracy:
 
 At first look, there were no result of enriching the data, but it may took an effect after the image size increasing. Now I have no time to check this hypothesis, but in comparing with other competitors I've got a good result and I think new data has an influence.
 
-I have made a simple python file to show the model in work. As I said above, in real life I prefer to use the 12-th epoch model, because it has not overfitted.
+I have made a simple python file to show the model in work. As I said above, in real life I would prefer to use the 12-th epoch model, because it has not overfitted.
