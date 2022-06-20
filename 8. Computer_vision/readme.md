@@ -4,7 +4,7 @@
  The goal was to predict car model by it's image. In the beginning we've got 15561 of train images and 6675 images to predict their model. Also there was an csv file with image names and classes for train data.
 ## 1.Getting images
 
-I have rewritten the code of parsers from previous project to get more images. Then I've merged them with given data and, finally, there were    30601 images to train on.
+I have rewritten the code of parsers from previous project to get more images. Then I've merged them with given data and, finally, there were 30601 images to train on.
 ## 2. Eploratory Data Analysys
 
 During the EDA we can look on the images and the class distribution, that was not normal. However it is not the problem. Also the median value of image size were calculated here, to use it on step 4.
