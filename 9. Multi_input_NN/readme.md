@@ -14,6 +14,6 @@ Then I've trained several models and predicted prices with them.
 During the work I have gathered metrics for models, that are presented in a table below:  
 ![Getting Started](mape.jpg)
 
-As we can see the best result on submission was shown by Catboost + final(Multi-input NN ) by Blending.  
+As we can see the best result on submission was shown by Catboost + final(Multi-input NN) by Blending.  
 As for NLP models, the best result has a Convolutional network. 
  
