@@ -14,10 +14,11 @@ Tool consist of five parts:
 
 ### Directory content
 
-* AnomalyDetection.ipynb - notebook with a demonstration of the anomaly detector training
+* analysing_reviews.ipynb - notebook with model training to recognize the user's attitude to the product
+* anomaly_detection.ipynb - notebook with a demonstration of the anomaly detector training
 * AnomalyPCbot.py - bot based on aiogramm
 * parser.py - code with data scraping, that also runs preprocess unit
 * preprocess.ipynb - notebook with data preprocessing
 * preprocess.py - script made from previous file to run from parser
 * rating_predictor.py - here is stored model to run in bot
-* RatingPrediction.ipynb - notebook with model training to recognize the user's attitude to the product
+
